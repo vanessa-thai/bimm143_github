@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # bimm143_github
-<<<<<<< HEAD
 My classwork for F23 in BIMM143 at UCSD. 
 =======
 My classwork for F23 in BIMM143 at UC San Diego.
